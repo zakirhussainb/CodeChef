@@ -55,8 +55,6 @@ Output:
 1 58 
  */
 
-
-
 import java.util.*;
 class TheLeadGame
 {
