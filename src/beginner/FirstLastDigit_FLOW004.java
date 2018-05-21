@@ -51,6 +51,16 @@ public class FirstLastDigit_FLOW004
 				n /= 10;
 			}
 			System.out.println(sum);
+			
+			
+			/*int m = 0;
+			int ld = n % 10;
+			while(n > 0)
+			{
+				m = n % 10;
+				n = n / 10;
+			}
+			System.out.println(m+ld);*/
 		}
 		sc.close();
 	}
